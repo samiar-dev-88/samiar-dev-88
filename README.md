@@ -19,25 +19,32 @@
 <!-- SKILLS -->
 ## 🛠 Skills
 
-- <img src="https://skillicons.dev/icons?i=python" width="20"/>    Python  
-- <img src="https://skillicons.dev/icons?i=html" width="20"/>    HTML  
-- <img src="https://skillicons.dev/icons?i=css" width="20"/>    CSS  
-- <img src="https://skillicons.dev/icons?i=javascript" width="20"/>    JavaScript
-- <img src="https://skillicons.dev/icons?i=git" width="20"/>     Git  
-- <img src="https://skillicons.dev/icons?i=mysql" width="20"/>    MySQL (Learning...)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
-</p>
-
+- <img src="https://skillicons.dev/icons?i=python" width="15"/>    Python  
+- <img src="https://skillicons.dev/icons?i=html" width="15"/>    HTML  
+- <img src="https://skillicons.dev/icons?i=css" width="15"/>    CSS  
+- <img src="https://skillicons.dev/icons?i=javascript" width="15"/>    JavaScript
+- <img src="https://skillicons.dev/icons?i=git" width="15"/>     Git  
+- <img src="https://skillicons.dev/icons?i=mysql" width="15"/>    MySQL (Learning...)
 ---
 
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
 
-- <img src="https://skillicons.dev/icons?i=telegram" width="20"/> Telegram  
-- <img src="https://skillicons.dev/icons?i=instagram" width="20"/> Instagram  
-- <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn  
-- <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub  
+- <a href="https://t.me/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=telegram" width="15"/> Telegram
+</a>
+
+- <a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=instagram" width="15"/> Instagram
+</a>
+
+- <a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" width="15"/> GitHub
+</a>
+
+- <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="15"/> LinkedIn
+</a>
 
 
 
@@ -46,8 +53,9 @@
 
 
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
+</p>
 
 ---
 
