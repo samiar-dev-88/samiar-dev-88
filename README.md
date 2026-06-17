@@ -30,14 +30,13 @@
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
 
-<a href="https://t.me/YOUR_USERNAME">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" width="25"/>
-  Telegram
+- <a href="https://t.me/samsami088">
+  <img src="https://skillicons.dev/icons?i=telegram" width="20"/> Telegram
 </a>
-- <a href="https://instagram.com/YOUR_USERNAME">
+- <a href="https://www.instagram.com/dev_samiar_88?igsh=MTIwYjg0YWgwdWc2bg==">
   <img src="https://skillicons.dev/icons?i=instagram" width="20"/> Instagram
 </a>
-- <a href="https://github.com/YOUR_USERNAME">
+- <a href="https://github.com/samiar-dev-88">
   <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub
 </a>
 - <a href="https://linkedin.com/in/YOUR_USERNAME">
