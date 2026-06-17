@@ -1,65 +1,86 @@
-# 👋 Hi there, I'm Samiar Akbari
-
-💻 Python Developer
-
-🌐 Web Designer
-
-👨‍🏫 Programming Instructor
-
-📚 Currently learning Databases and Backend Development
-
----
-
-## 🚀 Projects
-
-* 📶 Wi-Fi
-* 🔐 Login For Web
-* 🛒 Supermarket App
-
----
-## 📊 GitHub Stats
-
-![Samiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
----
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
----
-## 📊 Stats
+# 👋 Hi, I'm Samiar Akbari
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
----
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
-## 🛠 Skills
+## 🚀 About Me
 
-<p align="left">
+- 💻 Python Developer
+- 🌐 Web Designer
+- 🧠 Learning Backend & Databases
+- 👨‍🏫 Programming Instructor
+- 🔥 Building real-world projects
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-* Database Design
-* Backend Development
-* Software Engineering
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-* LinkedIn
-* Telegram
-* Instagram
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- 📦 Database Design
+- ⚙️ Backend Development (Node / Python)
+- 🏗 Software Engineering Basics
+- 🌍 Building Real Projects
+
+---
+
+## 🚀 Projects
+
+- 📶 WiFi Manager System
+- 🔐 Web Login System
+- 🛒 Supermarket App
+- 🌐 Personal Portfolio Website
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://t.me/">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I turn coffee ☕ + code 💻 into projects 🚀
