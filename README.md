@@ -30,8 +30,9 @@
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
 
-- <a href="https://t.me/YOUR_USERNAME">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="20"/> Telegram
+<a href="https://t.me/YOUR_USERNAME">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" width="25"/>
+  Telegram
 </a>
 - <a href="https://instagram.com/YOUR_USERNAME">
   <img src="https://skillicons.dev/icons?i=instagram" width="20"/> Instagram
