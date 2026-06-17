@@ -22,7 +22,8 @@
 - <img src="https://skillicons.dev/icons?i=python" width="20"/>    Python  
 - <img src="https://skillicons.dev/icons?i=html" width="20"/>    HTML  
 - <img src="https://skillicons.dev/icons?i=css" width="20"/>    CSS  
-- <img src="https://skillicons.dev/icons?i=javascript" width="20"/>    JavaScript  
+- <img src="https://skillicons.dev/icons?i=javascript" width="20"/>    JavaScript
+- <img src="https://skillicons.dev/icons?i=git" width="20"/>     Git  
 - <img src="https://skillicons.dev/icons?i=mysql" width="20"/>    MySQL (Learning...)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
@@ -32,7 +33,12 @@
 
 
 
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="20"/> Python<br>
+  <img src="https://skillicons.dev/icons?i=html" width="20"/> HTML<br>
+  <img src="https://skillicons.dev/icons?i=css" width="20"/> CSS<br>
+  <img src="https://skillicons.dev/icons?i=javascript" width="20"/> JavaScript<br>
+</p>
 
 
 
