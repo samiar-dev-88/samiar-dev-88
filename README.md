@@ -4,7 +4,7 @@
 </p>
 
 <!-- HI THERE -->
-# Hi there 👋🏻
+## Hi there 👋🏻
 
 <!-- ABOUT ME -->
 ## 🚀 About Me
@@ -19,31 +19,28 @@
 <!-- SKILLS -->
 ## 🛠 Skills
 
-- <img src="https://skillicons.dev/icons?i=python" width="15"/>    Python  
-- <img src="https://skillicons.dev/icons?i=html" width="15"/>    HTML  
-- <img src="https://skillicons.dev/icons?i=css" width="15"/>    CSS  
-- <img src="https://skillicons.dev/icons?i=javascript" width="15"/>    JavaScript
-- <img src="https://skillicons.dev/icons?i=git" width="15"/>     Git  
-- <img src="https://skillicons.dev/icons?i=mysql" width="15"/>    MySQL (Learning...)
+- <img src="https://skillicons.dev/icons?i=python" width="20"/>    Python  
+- <img src="https://skillicons.dev/icons?i=html" width="20"/>    HTML  
+- <img src="https://skillicons.dev/icons?i=css" width="20"/>    CSS  
+- <img src="https://skillicons.dev/icons?i=javascript" width="20"/>    JavaScript
+- <img src="https://skillicons.dev/icons?i=git" width="20"/>     Git  
+- <img src="https://skillicons.dev/icons?i=mysql" width="20"/>    MySQL (Learning...)
 ---
 
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
 
 - <a href="https://t.me/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=telegram" width="15"/> Telegram
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="20"/> Telegram
 </a>
-
 - <a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=instagram" width="15"/> Instagram
+  <img src="https://skillicons.dev/icons?i=instagram" width="20"/> Instagram
 </a>
-
 - <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" width="15"/> GitHub
+  <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub
 </a>
-
 - <a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="15"/> LinkedIn
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn
 </a>
 
 
