@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Samiar Akbari
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=header&text=Samiar%20Akbari&fontSize=40&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
@@ -86,10 +89,7 @@
 💡 I turn coffee ☕ + code 💻 into projects 🚀
 
 
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=header&text=Samiar%20Akbari&fontSize=40&fontColor=ffffff" />
-</p>
+
 
 <!-- ANIMATED TITLE -->
 <p align="center">
