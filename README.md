@@ -31,14 +31,13 @@
 
 ---
 
+<!-- SOCIAL MEDIA -->
+## 🌐 Social Media
 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="20"/> Python<br>
-  <img src="https://skillicons.dev/icons?i=html" width="20"/> HTML<br>
-  <img src="https://skillicons.dev/icons?i=css" width="20"/> CSS<br>
-  <img src="https://skillicons.dev/icons?i=javascript" width="20"/> JavaScript<br>
-</p>
+- <img src="https://skillicons.dev/icons?i=telegram" width="20"/> Telegram  
+- <img src="https://skillicons.dev/icons?i=instagram" width="20"/> Instagram  
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn  
+- <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub  
 
 
 
