@@ -20,13 +20,9 @@
 
 ## 🛠 Skills
 
-* Python
-* HTML
-* CSS
-* JavaScript
-* SQL
-* Git
-* GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql" />
+</p>
 
 ---
 
