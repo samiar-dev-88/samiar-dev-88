@@ -3,19 +3,47 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=header&text=Samiar%20Akbari&fontSize=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
-</p>
+<!-- HI THERE -->
+# Hi there 👋🏻
 
----
-
+<!-- ABOUT ME -->
 ## 🚀 About Me
 
 - 💻 Python Developer
 - 🌐 Web Designer
 - 🧠 Learning Backend & Databases
 - 👨‍🏫 Programming Instructor
-- 🔥 Building real-world projects
+- 🔥 Building real projects
+---
+
+<!-- SKILLS -->
+## 🛠 Skills
+
+- <img src="https://skillicons.dev/icons?i=python" width="20"/> Python  
+- <img src="https://skillicons.dev/icons?i=html" width="20"/> HTML  
+- <img src="https://skillicons.dev/icons?i=css" width="20"/> CSS  
+- <img src="https://skillicons.dev/icons?i=javascript" width="20"/> JavaScript  
+- <img src="https://skillicons.dev/icons?i=git" width="20"/> Git  
+- <img src="https://skillicons.dev/icons?i=mysql" width="20"/> MySQL  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
+</p>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
