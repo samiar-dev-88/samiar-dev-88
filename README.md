@@ -6,7 +6,6 @@
 <!-- HI THERE -->
 ## Hi there 👋🏻 
 ---
-
 <!-- ABOUT ME -->
 ## 🚀 About Me
 
@@ -26,6 +25,14 @@
 - <img src="https://skillicons.dev/icons?i=javascript" width="20"/>    JavaScript
 - <img src="https://skillicons.dev/icons?i=git" width="20"/>     Git  
 - <img src="https://skillicons.dev/icons?i=mysql" width="20"/>    MySQL (Learning...)
+---
+
+<!-- WAKATIME -->
+## 📊 My Waka time
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/waka_a4588eb2-396a-4ea2-9333-737c67a61f3d/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
+</p>
 ---
 
 <!-- SOCIAL MEDIA -->
@@ -49,25 +56,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/waka_a4588eb2-396a-4ea2-9333-737c67a61f3d/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
-</p>
