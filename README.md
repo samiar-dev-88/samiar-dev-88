@@ -29,46 +29,12 @@
 
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
-
-- <a href="https://t.me/samsami088">
-  <img src="https://skillicons.dev/icons?i=telegram" width="20"/> Telegram
-</a>
-- <a href="https://www.instagram.com/dev_samiar_88?igsh=MTIwYjg0YWgwdWc2bg==">
-  <img src="https://skillicons.dev/icons?i=instagram" width="20"/> Instagram
-</a>
-- <a href="https://github.com/samiar-dev-88">
-  <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub
-</a>
-- <a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn
-</a>
-
 <div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-
 </div>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/github.svg" alt="GitHub" width="40" height="40" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/linkedin.svg" alt="LinkedIn" width="40" height="40" />
-</a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/telegram.svg" alt="Telegram" width="40" height="40" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/instagram.svg" alt="Instagram" width="40" height="40" />
-</a>
-
-</div>
-
 
 
 
