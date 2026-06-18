@@ -5,7 +5,7 @@
 
 <!-- HI THERE -->
 ## Hi there 👋🏻 
----
+
 <!-- ABOUT ME -->
 ## 🚀 About Me
 
@@ -31,8 +31,9 @@
 ## 📊 My Waka time
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/waka_a4588eb2-396a-4ea2-9333-737c67a61f3d/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
 </p>
+
 ---
 
 <!-- SOCIAL MEDIA -->
@@ -45,7 +46,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
 </div>
 
----
 
 <!-- ANIMATED TITLE -->
 <p align="center">
@@ -53,6 +53,7 @@
 </p>
 
 ---
+
 
 
 
