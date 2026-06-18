@@ -4,7 +4,8 @@
 </p>
 
 <!-- HI THERE -->
-## Hi there 👋🏻 ---
+## Hi there 👋🏻 
+---
 
 <!-- ABOUT ME -->
 ## 🚀 About Me
@@ -47,12 +48,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-wakatime.vercel.app/api?username=YOUR_WAKATIME_USERNAME&layout=compact&langs_count=7&theme=dark" alt="WakaTime Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-wakatime.vercel.app/api?username=YOUR_WAKATIME_USERNAME&theme=dark" alt="WakaTime Stats" />
-</div>
+### 📊 WakaTime Coding Stats
 
+<!-- مدل اول: نمودار دایره‌ای زبان‌ها (محبوب‌ترین) -->
+<img src="https://github-readme-wakatime.vercel.app/api?username=sam_dev_88&layout=compact&langs_count=7&theme=dark" alt="sam_dev_88 WakaTime Languages" />
+
+<br/><br/>
+
+<!-- مدل دوم: نمودار خطی و جزئیات روزانه -->
+<img src="https://github-readme-wakatime.vercel.app/api?username=sam_dev_88&theme=dark" alt="sam_dev_88 WakaTime Stats" />
+
+</div>
 
 
