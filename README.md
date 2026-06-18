@@ -4,8 +4,7 @@
 </p>
 
 <!-- HI THERE -->
-## Hi there 👋🏻
----
+## Hi there 👋🏻 ---
 
 <!-- ABOUT ME -->
 ## 🚀 About Me
@@ -47,6 +46,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-wakatime.vercel.app/api?username=YOUR_WAKATIME_USERNAME&layout=compact&langs_count=7&theme=dark" alt="WakaTime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-wakatime.vercel.app/api?username=YOUR_WAKATIME_USERNAME&theme=dark" alt="WakaTime Stats" />
+</div>
 
 
 
