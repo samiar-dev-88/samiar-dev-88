@@ -73,5 +73,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
+  <img src="https://github-readme-stats.vercel.app/waka_a4588eb2-396a-4ea2-9333-737c67a61f3d/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
 </p>
