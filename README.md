@@ -5,6 +5,7 @@
 
 <!-- HI THERE -->
 ## Hi there 👋🏻
+---
 
 <!-- ABOUT ME -->
 ## 🚀 About Me
@@ -30,21 +31,24 @@
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
 <div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-
 </div>
+---
 
-
-
-
-
+<!-- ANIMATED TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Coding+Instructor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Love+UI/UX;Coding+Instructor" />
 </p>
+---
+
+
+
+
+
 
 ---
 
@@ -120,12 +124,7 @@
 
 
 
-<!-- ANIMATED TITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Future+Software+Engineer" />
-</p>
 
----
 
 ## 👋 About Me
 
