@@ -43,6 +43,32 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> LinkedIn
 </a>
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/github.svg" alt="GitHub" width="40" height="40" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/telegram.svg" alt="Telegram" width="40" height="40" />
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/instagram.svg" alt="Instagram" width="40" height="40" />
+</a>
+
+</div>
+
 
 
 
