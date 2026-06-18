@@ -47,19 +47,15 @@
 
 ---
 
-<div align="center">
 
-### 📊 WakaTime Coding Stats
 
-<!-- مدل اول: نمودار دایره‌ای زبان‌ها (محبوب‌ترین) -->
-<img src="https://github-readme-wakatime.vercel.app/api?username=sam_dev_88&layout=compact&langs_count=7&theme=dark" alt="sam_dev_88 WakaTime Languages" />
 
-<br/><br/>
 
-<!-- مدل دوم: نمودار خطی و جزئیات روزانه -->
-<img src="https://github-readme-wakatime.vercel.app/api?username=sam_dev_88&theme=dark" alt="sam_dev_88 WakaTime Stats" />
 
-</div>
+
+
+
+
 
 
 
