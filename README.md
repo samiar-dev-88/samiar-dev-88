@@ -28,11 +28,10 @@
 ---
 
 <!-- WAKATIME -->
-## 📊 My Waka time (Comming soon...)
+## 📊 Weekly Development Breakdown
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?sam_dev_88=؟&theme=radical&langs_count=10" alt="wakatime stats">
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
