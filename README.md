@@ -30,9 +30,9 @@
 <!-- SKILLS -->
 ## 👾 Next Project
 
-- I am working on an AI project and will unveil it in December.
-- <img src="[https://skillicons.dev/icons?i=python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5J7wk7GH4z3Ex3w-VcXs0c2NfnTqJnuX1oMoqVlfYow&s=10)" width="20"/>    Sealix AI
-- https://sealixai.netlify.app/
+I am working on an AI project and will unveil it in December.
+<img src="[https://skillicons.dev/icons?i=python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5J7wk7GH4z3Ex3w-VcXs0c2NfnTqJnuX1oMoqVlfYow&s=10)" width="20"/>    Sealix AI
+https://sealixai.netlify.app/
 
 ---
 
