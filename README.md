@@ -30,7 +30,7 @@
 <!-- SKILLS -->
 ## 👾 Next Project
 
-I am working on an AI project and will unveil it in December.
+I am working on an AI project and will released it in December 2026:
 https://sealixai.netlify.app/
 
 ---
