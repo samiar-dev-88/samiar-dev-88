@@ -27,6 +27,14 @@
 - <img src="https://skillicons.dev/icons?i=mysql" width="20"/>    MySQL (Learning...)
 ---
 
+<!-- SKILLS -->
+## 👾 Next Project
+
+- I am working on an AI project and will unveil it in December.
+- <img src="[https://skillicons.dev/icons?i=python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5J7wk7GH4z3Ex3w-VcXs0c2NfnTqJnuX1oMoqVlfYow&s=10)" width="20"/>    Sealix AI
+- https://sealixai.netlify.app/
+
+---
 
 <!-- SOCIAL MEDIA -->
 ## 🌐 Social Media
@@ -41,7 +49,7 @@
 
 <!-- ANIMATED TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Love+UI/UX;Coding+Instructor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Designer;Backend+Learner;Teacher" />
 </p>
 
 ---
